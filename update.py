@@ -7,6 +7,7 @@ from pathlib import Path
 # List of URLs containing domain lists, one per line
 DOMAIN_LIST_URLS = [
     "https://raw.githubusercontent.com/GhostRooter0953/discord-voice-ips/refs/heads/master/voice_domains/discord-voice-domains-list",
+    "https://raw.githubusercontent.com/Nixellion/custom_blocked_domains/refs/heads/main/extras.lst"
 ]
 
 # URL of the main nftset file
